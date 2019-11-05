@@ -2,8 +2,7 @@
 Contact List
 
 Description: This is a javaframe application created in netbeans that locallu stores contact information that the user inputs. Along with
-having a storage space fro contacts other than your phone, you are able to email and text yourself the contact information based
-on the information you used to create an account.
+having a storage space for contacts other than your phone, the end goal was to allow the user to email and text yourself the contact information based on the information you used to create an account. However, I had trouble get the APIs (javax.mail and twilio) to work with the project so those functions do not work.
 
 Dependencies: NetBeans IDE, mysql connector, twilio api, javax.mail api, and activation api to function with the mail api
 
